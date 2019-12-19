@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crafty.Website", "Crafty.Website\Crafty.Website.csproj", "{51E40A1E-203A-407E-AEA9-91A806B79568}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51E40A1E-203A-407E-AEA9-91A806B79568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51E40A1E-203A-407E-AEA9-91A806B79568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51E40A1E-203A-407E-AEA9-91A806B79568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51E40A1E-203A-407E-AEA9-91A806B79568}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C154C1A0-0365-4132-9EFA-C00FD93067A3}
+	EndGlobalSection
+EndGlobal
